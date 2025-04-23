@@ -1,7 +1,7 @@
 # Welcome to My GitHub 🤗
 
 ## About Me  
-I am a developer specializing in **web development, databases, and networking**. I work with languages like **PHP, Java, C#, Python, and C**, using frameworks such as **Flight PHP, Laravel, Bootstrap, JavaFX, .NET, Django, and Flask** to create dynamic applications. I also explore **algorithms and applied mathematics**.  
+I am a developer specializing in **web development, databases, and networking**. I work with languages like **PHP, Java, C#, Python, C++, VB, Java Script and C**, using frameworks such as **Flight PHP, Laravel, Bootstrap, JavaFX, .NET, Django, and Flask** to create dynamic applications. I also explore **algorithms and applied mathematics**.  
 
 ## Skills & Interests  
 - **Web Development:** Backend & frontend with PHP, MySQL, Bootstrap, Laravel, Django, and Flask.  
